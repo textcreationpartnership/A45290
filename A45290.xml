@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proponitur, Maimonidis More Nevochim typis mandandum lingua Arabica, qua ab authore primò scriptum est. Suscipiendi operis causæ sunt, I. Latina editione Buxtorfiana ante multos annos prorsus distracta &amp; absumpta, iste liber (ad explicandas S. Scripturas Apprime utilis) hodie quovis pretio non est redimendus. II. Quamvis clarissimi Buxtorfii versio Latina (si modo haberi posset) maxima ex parte sit accurata, alicubi tamen est justo laxior, &amp; alibi aliquando virum doctissimum fefillit linguæ Hebraicæ amphibolia, cum non esset originalem textum Arabicum consulendo. Cum itaque doctrinam dicto libro contentam ... Si autem tales notæ censeantur sacere ut hoc opus in nimiam molem excrescat, his omnibus omissis, nudus textus Arabice &amp; Latine emittatur. De his autem penes hujus operis promotores judicium esto. Dicti operis sequitur hujusmodi Specimen,</title>
+            <author>Maimonides, Moses, 1135-1204.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45290</idno>
+            <idno type="STC">Wing H3879</idno>
+            <idno type="STC">ESTC R220421</idno>
+            <idno type="EEBO-CITATION">99831823</idno>
+            <idno type="PROQUEST">99831823</idno>
+            <idno type="VID">36290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36290)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1779:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proponitur, Maimonidis More Nevochim typis mandandum lingua Arabica, qua ab authore primò scriptum est. Suscipiendi operis causæ sunt, I. Latina editione Buxtorfiana ante multos annos prorsus distracta &amp; absumpta, iste liber (ad explicandas S. Scripturas Apprime utilis) hodie quovis pretio non est redimendus. II. Quamvis clarissimi Buxtorfii versio Latina (si modo haberi posset) maxima ex parte sit accurata, alicubi tamen est justo laxior, &amp; alibi aliquando virum doctissimum fefillit linguæ Hebraicæ amphibolia, cum non esset originalem textum Arabicum consulendo. Cum itaque doctrinam dicto libro contentam ... Si autem tales notæ censeantur sacere ut hoc opus in nimiam molem excrescat, his omnibus omissis, nudus textus Arabice &amp; Latine emittatur. De his autem penes hujus operis promotores judicium esto. Dicti operis sequitur hujusmodi Specimen,</title>
+                  <author>Maimonides, Moses, 1135-1204.</author>
+                  <author>Hyde, Thomas, 1636-1703.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A specimen of Dalalāt al-ḥaʻirīn - "The reasons of the laws of Moses" from the "More Nevochim" - as translated by Thomas Hyde. Hyde's complete translation apparently was not published.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Latin and Arabic in facing columns.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commandments (Judaism) --  Early works to 1800.</term>
+               <term>Commandments, Six hundred and thirteen --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36290:1" rendition="simple:additions"/>
+            <p>
+               <hi>PROPONITUR,</hi> MAimonidis <hi>More Nevochim</hi> typis mandandum Lingua Arabica, qua ab Authore primò ſcriptum est. Suſcipiendi Operis cauſae ſunt,</p>
+            <list>
+               <item>I. <hi>Latina editione Buxtorfiana ante multos annos prorſus diſtracta &amp; abſumpta, iſte Liber (ad explicandas S. Scri<g ref="char:EOLhyphen"/>pturas apprime utilis) hodie quovis pretio non est redi<g ref="char:EOLhyphen"/>mendus.</hi>
+               </item>
+               <item>II. <hi>Quamvis Clariſſimi Buxtorfii Verſio Latina (ſi modo ha<g ref="char:EOLhyphen"/>beri poſset) maxima ex parte ſit accurata, alicubi tamen eſt justo laxior, &amp; alibi aliquando Virum Doctiſſimum fe<g ref="char:EOLhyphen"/>fellit Linguae Hebraicae amphibolia, cum non eſset origi<g ref="char:EOLhyphen"/>nalem Textum Arabicum conſulendo.</hi>
+               </item>
+            </list>
+            <p>Cum itaque Doctrinam dicto Libro contentam à tertia tan<g ref="char:EOLhyphen"/>tum manu (idque aliquantulum imperfecte) traditam hactenus acceperimus, ſi melioris Literaturae Patronis vi<g ref="char:EOLhyphen"/>ſum fuerit, Maimonides ipſe ex nova Editione ſequente mo<g ref="char:EOLhyphen"/>do inſtituta, propriis ſuis verbis Arabicis loquens audiatur: viz.
+<list>
+                  <item>I. <hi>Textus Originalis Arabicus ex Hebraicis Literis (quibus à Maimonide ſcriptus est,) in proprias Arabicas tranſcri<g ref="char:EOLhyphen"/>batur, &amp; Typis Arabicis evulgetur.</hi>
+                  </item>
+                  <item>II. <hi>Apponatur Textus Arabici justa Tranſlatio Latina.</hi>
+                  </item>
+                  <item>III. <hi>Ad calcem cujuſque paginae adjiciantur Notae quaedam neceſsariae, tam ad Textum Arabicum quam ad Verſio<g ref="char:EOLhyphen"/>nem Hebraicam pro nata occaſione ſpectantes.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Si autem tales Notae cenſeantur facere ut hoc Opus in nimi<g ref="char:EOLhyphen"/>am molem excreſcat, his omnibus omiſſis, nudus Textus Arabice &amp; Latine emittatur. De his autem penes hujus Operis Promotores judicium eſto.</p>
+            <p>
+               <hi>Dicti Operis ſequitur hujuſmodi</hi> SPECIMEN.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="ara" type="version">
+            <p>
+               <pb facs="tcp:36290:2"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb facs="tcp:36290:2"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb facs="tcp:36290:3"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div xml:lang="lat" type="version">
+            <pb facs="tcp:36290:2"/>
+            <p>O Diſcipule chariſſime R. Jo<g ref="char:EOLhyphen"/>ſeph (cuſtodiat eum Rupes ſua) fili R. Jehudae (cujus quies ſit in Paradiſo,) quando ſubſtitiſti mecum, &amp; ab extremis-parti<g ref="char:EOLhyphen"/>bus Regionis contendiſti ad legendum coram me, magna fuit apud me aeſtima<g ref="char:EOLhyphen"/>tio tuî propter cupiditatem tuam ad vehementiam uſque in Doctrinae-acqui<g ref="char:EOLhyphen"/>ſitionem. Et quando in Carminibus tuis vidi hoc ex vehementiâ deſiderii tui ad res ſpeculativas, (quod fuit poſt<g ref="char:EOLhyphen"/>quam Epiſtolae tuae &amp; Conſeſſus tui ab Alexandria ad me perveniſſent, antequam phantaſiam tuam expertus fueram,) tunc dixi, Fortaſſis deſiderium ejus for<g ref="char:EOLhyphen"/>tius eſt apprehenſione ipſius. At quan<g ref="char:EOLhyphen"/>do coram me legiſti de Scientiâ Aſtro<g ref="char:EOLhyphen"/>nomiae id quod tunc legiſti, &amp; de Ma<g ref="char:EOLhyphen"/>thematicis ea quae praemiſeras, (quo<g ref="char:EOLhyphen"/>rum neceſſaria erat praeſtratio,) tum auxi de te gaudium propter ingenii tui praeſtantiam &amp; phantaſiae tuae prompti<g ref="char:EOLhyphen"/>tudinem. Et deinde videns deſideri<g ref="char:EOLhyphen"/>um tuum ad Mathematica eſſe magnum, reliqui te ad exercitationem in eis, cum probe ſcirem intellectum tuum. Quan<g ref="char:EOLhyphen"/>do vero legiſti coram me de Arte Lo<g ref="char:EOLhyphen"/>gica id quod tunc legiſti, ſpes mea in te intenſior fuit: &amp; tum perſpexi te eſſe idoneum cui Librorum Propheticorum Arcana revelarentur, ut ita obſervares ex illis ea quae perfectiores obſervare debent. Ideoque incepi aliquid de his tibi<note place="bottom">
+                  <hi>Epiſtolae tuae &amp; Conſeſſus tui</hi>] Abben-Tibbon in ſuâ Verſione Hebraicâ haec de ſuis Scriptis ita vertit, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Libri tui &amp; Rythmi tui:</hi> nam
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> quod propriè <hi>Epiſtolas miſſivas</hi> ſignificat, communi uſu eſt quivis <hi>Libellus</hi> ſeu <hi>Tractatus minor.</hi> Per <hi>Conſeſſus,</hi> in<g ref="char:EOLhyphen"/>telliguntur Diſcurſus ſeu Diſſertationes ad Philoſophiam vel aliquam ſaltem Eruditionem ſpectantes, in docto<g ref="char:EOLhyphen"/>rum virorum Conſeſſu habiti, qui Scripto mandari ſolent; cujus generis Arabicè extat elegantiſſimus Li<g ref="char:EOLhyphen"/>ber dictus <hi>Conſeſſus Harirenſes. Ad Mathematica</hi>] Hebr. <hi>ad ſcientias Mathematicas eſſe forte, tum de<g ref="char:EOLhyphen"/>miſi te ad inſtruendum teipſum in eis, cùm probè ſci<g ref="char:EOLhyphen"/>rem extremum tuum,</hi> ſeu <hi>exitum tuum.</hi> At pro <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>intellectum</hi> ſeu
+<hi>ingenium tuum,</hi> (prout alter noſtrorum Codicum Arabicorum legit,) proculdubiò Abben-Tibbon in ſuo Codice Arabico aliter legebat, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>extremum tuum,</hi> ſc. <hi>exitum tuum</hi> ſeu <hi>ſucceſſum tuum;</hi> quia Hebraicè vertit
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>po<g ref="char:EOLhyphen"/>ſtremum</hi> ſeu <hi>extremum tuum.</hi> Alius noſter Codex pro
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, legit <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>quid eſſet in te.</hi> Tales diverſitates ex lapſu Scribarum, ſenſus idem.</note>
+               <pb facs="tcp:36290:2"/>inſinuare. Cum autem viderem te ad<g ref="char:EOLhyphen"/>huc plus à me petere, meque urgere ut res aliquas Theologicas tibi explica<g ref="char:EOLhyphen"/>rem, &amp; ut de iſtis ſcopis Scholaſtico<g ref="char:EOLhyphen"/>rum te informarem, an ſcilicet iſtae methodi eſſent demonſtrativae necne, aut ex quali tandem ſorte eſſent; &amp; viderem te aliquantulum profeciſſe in aliquibus horum ab aliis praeter me, te<g ref="char:EOLhyphen"/>que eſſe perplexum; (quippe vexaret te mentis-confuſio, &amp; tamen nobilis tu<g ref="char:EOLhyphen"/>us animus à te poſceret reperire res de<g ref="char:EOLhyphen"/>ſideratiſſimas;) tum non deſtiti te ab hoc depellere, &amp; tibi praecipere ut res ordine capeſſeres, ea à me intentione, ut ita veritas tibi rectius-conſtaret per <hi>not as</hi> methodos ſuas, non autem ut in<g ref="char:EOLhyphen"/>cideret tibi certitudo quaſi per acci<g ref="char:EOLhyphen"/>dens. Ideoque quamdiu me conveni<g ref="char:EOLhyphen"/>res, quotieſcunque fieret mentio ali<g ref="char:EOLhyphen"/>cujus Verſûs <hi>Biblici</hi> aut Textûs Sapi<g ref="char:EOLhyphen"/>entum
+<hi>Talmudicorum</hi> in quo eſſet in<g ref="char:EOLhyphen"/>dicium de aliquo ſenſu peregrino, tum non recuſavi quin hoc tibi expli<g ref="char:EOLhyphen"/>carem. Quando vero Deus determi<g ref="char:EOLhyphen"/>naverat<note place="bottom">
+                  <hi>Scholaſticorum</hi>] a. v. uſu communi, <hi>Locutorum, Diſceptatorum, Diſputatorum, Diſſerentium:</hi> D. Buxtorfius etiam in Verſione ſuâ reddit
+<hi>Loquentium,</hi> indefinite, quaſi rem determinare ſubdubitans. Mai<g ref="char:EOLhyphen"/>monides verò Philoſophicè loquens, eo ut vocabulo Artis heic utitur. Quales hi erant, docet R. Epho<g ref="char:EOLhyphen"/>daeus, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Diſcurſum inſtituentes de rebus Theologicis.</hi> Arabico <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> intelliguntur <hi>Theologi Philoſophantes</hi> ſive
+<hi>Metaphyſici</hi> ſive <hi>Scholaſtici;</hi> quorum Scientia vocatur <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Scientia Theologiae Scholaſticae,</hi> vel <hi>Metaphyſicae;</hi> quae phraſis aliquando
+<hi>Oratoriae</hi> tri<g ref="char:EOLhyphen"/>buitur. Et <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> eſt talis <hi>Philoſophus</hi> ſeu
+<hi>Schola<g ref="char:EOLhyphen"/>ſticus</hi> ſive <hi>Metaphyſicus,</hi> vel etiam <hi>Orator.</hi> Sed cum tan<g ref="char:EOLhyphen"/>ti viri pace dixerim, D. Buxtorfius in Lex. Talmudico non videtur ſatis intellexiſſe Commentatorem R. Shem-Tobh, dum ex eo exponit hos in hoc loco eſſe <hi>Sectam Philoſophorum Mundi aeternit atem aſſe<g ref="char:EOLhyphen"/>rentium.</hi> Cujus contrarium verum eſt: nam Mundi Novitatem ſeu Productionem ſive Creationem plane aſſerunt. Dicti Rabbini verba, haec ſunt,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Diſcurſum inſtituentes de exiſtentià Dei, &amp; quod ſit Incorporeus, &amp; Unus. Sed quoad id quod dicunt in Rationibus ſuis pro Productione Mundi, conſtat illa Praemiſſa non eſſe vera, mu<g ref="char:cmbAbbrStroke">̄</g>itò minùs primaria; eſſeque ex Arte Sophiſticá, non autem ex Arte De<g ref="char:EOLhyphen"/>monſtrativá omnino.</hi> Vult nempe iſtos homines pro Novitate ſeu Creatione Mundi, &amp; contra ejuſdem Aeternitatem, diſſerentes, non poſſe ex ſuis Princi<g ref="char:EOLhyphen"/>piis ſufficienter &amp; demonſtrative res ſuas probare, ſed tantùm argumentis Sophiſticis &amp; fallacibus. Dicta eorum opinio aliunde quoque manifeſta eſt: nempe ex initio ſecundae partis Libri <hi>More,</hi> ubi Maimo<g ref="char:EOLhyphen"/>nides adducit Ariſtotelis ſententiam de Mundi Aeter<g ref="char:EOLhyphen"/>nitate, &amp; iſtos ei contradicentes: putatque Ariſto<g ref="char:EOLhyphen"/>telem ex hypotheſi tantùm talia aſſeruiſſe, quae ipſe reverà non crediderit.</note>
+               <pb facs="tcp:36290:3"/>nos ſeparari, &amp; exinde tu ali<g ref="char:EOLhyphen"/>orſum te converteres, iſtae <hi>dictae</hi> Con<g ref="char:EOLhyphen"/>ventiones excitarunt in me firmam-re<g ref="char:EOLhyphen"/>ſolutionem, quae quidem antea langui<g ref="char:EOLhyphen"/>dior fuerat: &amp; iſta tua abſentia mo<g ref="char:EOLhyphen"/>vebat me ad ponendum iſtum Diſcur<g ref="char:EOLhyphen"/>ſum, quem poſui pro te &amp; tuî ſimili<g ref="char:EOLhyphen"/>bus, (qui quidem ſunt pauci,) quem<g ref="char:EOLhyphen"/>que diſpoſui in diſtinctas Sectiones. Et quicquid ex eo ſcriptum fuerit, ſigillatim ad te perveniet ubicunque fueris. Tuque ſalvus ſis.</p>
+            <p>
+               <hi>Not am fac mihi</hi> ô Deus <hi>viam in qua incedam: nam ad te attollo animam meam.</hi> Pſal. 143.8. <hi>Ad vos ô. viri clamo, &amp; vox mea ad filios homi<g ref="char:EOLhyphen"/>num.</hi> Prov. 8.4. <hi>Inclina aurem tuam, &amp; audi verba Sapientum, &amp; appone cor tuum ad ſcienti<g ref="char:EOLhyphen"/>am meam.</hi> Prov. 22.17.</p>
+            <p>Hujus Diſcurſûs ſcopus primarius eſt explicare ſenſus Nominum quae ve<g ref="char:EOLhyphen"/>niunt in Libris Propheticis: ex qui<g ref="char:EOLhyphen"/>bus Nominibus quaedam ſunt Aequi<g ref="char:EOLhyphen"/>voca, quae imperiti adhibent ſecun<g ref="char:EOLhyphen"/>dum aliquos tantum ſenſuum quibus di<g ref="char:EOLhyphen"/>ctum eſt ejuſmodi Nomen aequivo<g ref="char:EOLhyphen"/>cum. Et quaedam horum ſunt Meta<g ref="char:EOLhyphen"/>phorica, quae tamen adhibent ſenſu primo à quo tranſlata ſunt. Et quae<g ref="char:EOLhyphen"/>dam horum ſunt Analoga, de quibus a<g ref="char:EOLhyphen"/>liquando putant ea dici per Conſenſum
+[ſeu univocè], &amp; aliquando putant ea eſſe Aequivoca.<note place="bottom">
+                  <hi>Sigillatim</hi>] ad verbum <hi>primùm, primùm,</hi> ſcil. quamprimùm poterit fieri, ſigillatim, unum poſt aliud: nam (ut videtur) variis temporibus &amp; per partes mittebat.
+<p>
+                     <hi>Salvus ſis</hi>] Hinc notari debet quod in Heb. legendum eſt <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>Shalèm,</hi> ut optimus noſter Co<g ref="char:EOLhyphen"/>dex MS Hebraicus; non autem <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>Shalòm,</hi> ut Libri impreſſi, male.</p>
+                  <p>
+                     <hi>Analoga</hi>] De Analogis, vel putant ea eſſe Univoca ſeu quae per generalem omnium Conſenſum eodem ſenſu accipienda ſunt; vel putant ea eſſe Communia ſeu Aequivoca, cùm utraque ſint Analoga.</p>
+               </note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
